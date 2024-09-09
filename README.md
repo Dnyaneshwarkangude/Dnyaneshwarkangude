@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://github.com/user-attachments/assets/e48f5627-ecf3-47f2-b3bb-f4e1278d15c0)
 ](https://dnyaneshwarkangude.io) -->
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Kangude</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnyaneshwarkangude&label=Profile%20views&color=0e75b6&style=flat" alt="dnyaneshwarkangude" /> </p>
